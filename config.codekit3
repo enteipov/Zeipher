@@ -63,33 +63,22 @@
 		"oAP": "\/header.php",
 		"oF": 0
 		},
-	"\/images\/logo.png": {
+	"\/images\/hero.png": {
 		"ft": 32768,
-		"iS": 9291,
+		"iS": 30420,
 		"oA": 0,
-		"oAP": "\/images\/logo.png",
+		"oAP": "\/images\/hero.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/pattern.png": {
+	"\/images\/zeipher-avi-alt.png": {
 		"ft": 32768,
-		"iS": 98672,
+		"iS": 14622,
 		"oA": 0,
-		"oAP": "\/images\/pattern.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/zeipher-logo-alt.png": {
-		"ft": 32768,
-		"iS": 9118,
-		"oA": 0,
-		"oAP": "\/images\/zeipher-logo-alt.png",
+		"oAP": "\/images\/zeipher-avi-alt.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -127,7 +116,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 525491477,
-	"displayValue": "com.zeipher",
+	"displayValue": "Zeipher",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-obama"
 	},

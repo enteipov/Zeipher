@@ -4,5 +4,9 @@
 			 $(document).ready(function() {
 				Materialize.updateTextFields();
 				$('select').material_select();
+				$('.modal').modal();
+				$('.exit-btn').click(function(){
+  					$('#subModal').modal('close');
+				})
 			  });
 		</script>

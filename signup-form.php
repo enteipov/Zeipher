@@ -1,15 +1,14 @@
-<form class="col s12 z-depth-2" action="https://zeiphertechnologies.createsend.com/t/j/s/zhilyd/" method="post" id="subForm">
+<a href="#" class="right exit-btn"><i class="material-icons">close</i></a>
+<form class="col s12" action="https://zeiphertechnologies.createsend.com/t/j/s/zhilyd/" method="post" id="subForm">
 	<div class="row">
-		<legend class="col s12"><h5>Join Our Mailing List to Know When We Launch!</h5></legend>
+		<legend class="col s12"><h5>Subscribe to our newsletter to know when we launch!</h5></legend>
 	</div>
     <div class="row">
-		<div class="input-field col s12">
+		<div class="input-field col s12 l6">
 			<label for="fieldyuktbt">First Name</label>
 			<input id="fieldyuktbt" name="cm-f-yuktbt" type="text" />
     	</div>
-	</div>
-    <div class="row">
-		<div class="input-field col s12">
+		<div class="input-field col s12 l6">
 			<label for="fieldyuktbj">Last Name</label>
 			<input id="fieldyuktbj" name="cm-f-yuktbj" type="text" />
     	</div>
@@ -21,14 +20,12 @@
     	</div>
 	</div>
     <div class="row">
-		<div class="input-field col s12">
+		<div class="input-field col s12 l6">
 			<label for="fieldyuktbi">City</label>
 			<input id="fieldyuktbi" name="cm-f-yuktbi" type="text" />
 			<div class="input-hint-container"><span class="input-hint">Domestic US Only</span></div>
     	</div>
-	</div>
-    <div class="row">
-		<div class="input-field col s12">
+		<div class="input-field col s12 l6">
 			<label class="active" for="fieldyuktbd">State</label>
 			<select id="fieldyuktbd" name="cm-fo-yuktbd">
 				<option value=""></option>
@@ -87,7 +84,7 @@
 			<div class="input-hint-container"><span class="input-hint">Domestic US Only</span></div>
     	</div>
 	</div>
-    <p>
-        <button class="btn waves-effect waves-light z-depth-5" type="submit">Subscribe<i class="material-icons right">thumb_up</i></button>
-    </p>
+    <div class="row">
+        <button class="btn waves-effect waves-light" type="submit">Subscribe<i class="material-icons right">thumb_up</i></button>
+    </div>
 </form>
