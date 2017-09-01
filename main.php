@@ -7,13 +7,19 @@
 				<p class="center-align">Zeipher is a start-up tech company, founded in Los Angeles, California.</p>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col s12">
-				<!-- Modal Trigger -->
-				<button class="waves-effect waves-light btn modal-trigger pulse" href="#subModal">Join our Newsletter</button>
-				<!-- Modal Structure -->
-				<div id="subModal" class="modal">
-					<?php include 'signup-form.php'; ?>
+		<div class="container">
+			<div class="row">
+				<div class="col s12">
+					<!-- Modal Trigger -->
+					<button class="waves-effect waves-light btn modal-trigger pulse" href="#subModal">Join our Newsletter</button>
+				</div>
+			</div>
+			<div class="row">
+				<div>
+					<!-- Modal Structure -->
+					<div id="subModal" class="modal">
+						<?php include 'signup-form.php'; ?>
+					</div>
 				</div>
 			</div>
 		</div>
